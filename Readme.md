@@ -97,7 +97,7 @@ Added extra functions for:
 	- JS
 	- excerpt link
 Added Sidebars and Widgets capabilities.
-###### >> 20 August 2017
+###### >> 20 Jan 2021
 
 Implemented Customizer options.
 Header images enabled.
