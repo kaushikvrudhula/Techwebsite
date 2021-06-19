@@ -112,6 +112,15 @@ Contact Form replaced hard coded form in Contact Us.
 Media items now displayed via Audio Widgets in the sidebar.
 **SASS**: first round of cleaning/organizing styles.
 
+Screen Snap :
+
+### Creation of sample page through Wordpress : 
+<img src="https://github.com/kaushikvrudhula/Techwebsite/blob/main/gif/20210619_191652.gif" width="70%" height="200%">
+
+### View of created posts :
+<img src="https://github.com/kaushikvrudhula/Techwebsite/blob/main/gif/ezgif.com-gif-maker.gif" width="70%" height="200%">
+
+
 ###### >> 21 Jan 2021
 
 Update readme.md.
